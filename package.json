@@ -6,6 +6,7 @@
   "jsnext:main": "es6/index",
   "files": [
     "*",
+    ".babelrc",
     "*.md",
     "demo",
     "es6",
